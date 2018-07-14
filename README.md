@@ -1,2 +1,2 @@
 # angularjs
-sample project angularjs
+sample project angularjs!
